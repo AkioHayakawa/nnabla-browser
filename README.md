@@ -1,6 +1,6 @@
 # nnabla-browser
 
-[![test](https://github.com/sony/nnabla-browser/actions/workflows/test.yaml/badge.svg)](https://github.com/sony/nnabla-browser/actions/workflows/test.yaml)
+![test](https://github.com/sony/nnabla-browser/actions/workflows/test.yaml/badge.svg)
 
 nnabla-browser is a browser-based visualizer for [Neural Network Libraries](https://github.com/sony/nnabla).
 
